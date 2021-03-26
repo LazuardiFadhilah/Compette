@@ -1,2 +1,1 @@
-# Compette
-# Compette
+#Slicing UI Using Tailwind
